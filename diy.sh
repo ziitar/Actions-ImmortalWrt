@@ -4,4 +4,4 @@
 # git clone --depth=1 https://github.com/EOYOHOO/rkp-ipid.git package/rkp-ipid
 sed -i 's/192.168.1.1/192.168.1.2/g' package/base-files/files/bin/config_generate
 
-git clone https://github.com/SunBK201/UA3F.git package/UA3F
+#git clone https://github.com/SunBK201/UA3F.git package/UA3F
